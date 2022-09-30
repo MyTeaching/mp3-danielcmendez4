@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimaryContainer">@color/design_default_color_on_secondary</item>
+        <item name="colorOnSecondary">@color/design_default_color_secondary_variant</item>
+        <item name="colorControlActivated">@color/material_dynamic_neutral_variant40</item>
+    </style>
+
+</resources>
