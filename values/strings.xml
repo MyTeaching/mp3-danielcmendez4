@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MP3</string>
+    <string name="button_one_text">NEW YORK KNICKS</string>
+    <string name="button_two_text">LOS ANGELES LAKERS</string>
+    <string name="button_replay_text">YOU WANNA PLAY AGAIN??</string>
+    <string name="button_shareTheAct_text">SHARE THE WIN!</string>
+    <string name="button_makeCall_text">CALL ANY FRIENDS!</string>
+    <string name="button_sendMessage_text">SEND A MESSAGE NOW!</string>
+</resources>
