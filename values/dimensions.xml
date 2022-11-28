@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="margin_normal">15dp</dimen>
-    <dimen name="normal_text">18sp</dimen>
-    <dimen name="normal_paddling">12dp</dimen>
-    <dimen name="text_score">22sp</dimen>
-    <dimen name="text_winner">32sp</dimen>
-    <dimen name="margins_normal">15dp</dimen>
-</resources>
